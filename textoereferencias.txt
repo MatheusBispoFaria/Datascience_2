@@ -1,0 +1,12 @@
+RM562140, Matheus Bispo Faria Barbosa
+RM562541, Enrico bagli 
+RM561865, Henrique Infanti Coratolo
+RM561292, Matheus Antunes Monreal
+RM565075, Rafael Moraes Ribeiro dos Santos
+
+MOTIVO:
+
+O grupo escolheu a base de dados do SNIS sobre saneamento básico por ser um tema central que une infraestrutura urbana e saúde pública. A análise desses dados permite identificar desigualdades regionais críticas no acesso a serviços essenciais. Além disso, o saneamento é um pilar da construção civil (infraestrutura) que impacta diretamente os indicadores de saúde da população, permitindo ao grupo explorar correlações entre investimentos em obras de esgoto e a qualidade de vida nos municípios brasileiros. É uma base real, densa e com alto potencial para gerar insights visuais em nosso dashboard.
+
+REFERÊNCIAS:
+https://basedosdados.org/dataset/2a543ad8-3cdb-4047-9498-efe7fb8ed697?table=df7cf198-4889-4baf-bb77-4e0e28eb90ca
